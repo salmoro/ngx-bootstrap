@@ -1,0 +1,1 @@
+{"version":3,"file":"public_api.d.ts","sourceRoot":"","sources":["../../../src/positioning/public_api.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAC;AACjE,OAAO,EAAE,kBAAkB,EAAE,kBAAkB,EAAE,MAAM,uBAAuB,CAAC;AAC/E,OAAO,EAAE,mBAAmB,EAAE,eAAe,EAAE,MAAM,UAAU,CAAC;AAChE,OAAO,EAAE,YAAY,EAAE,MAAM,qBAAqB,CAAC"}

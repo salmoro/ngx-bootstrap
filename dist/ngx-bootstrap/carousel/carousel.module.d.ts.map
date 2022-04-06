@@ -1,0 +1,1 @@
+{"version":3,"file":"carousel.module.d.ts","sourceRoot":"","sources":["../../../src/carousel/carousel.module.ts"],"names":[],"mappings":"AACA,OAAO,EAAY,mBAAmB,EAAE,MAAM,eAAe,CAAC;;;;;AAK9D,qBAKa,cAAc;IACzB,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,cAAc,CAAC;yCAD1C,cAAc;0CAAd,cAAc;0CAAd,cAAc;CAI1B"}

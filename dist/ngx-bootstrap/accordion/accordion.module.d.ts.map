@@ -1,0 +1,1 @@
+{"version":3,"file":"accordion.module.d.ts","sourceRoot":"","sources":["../../../src/accordion/accordion.module.ts"],"names":[],"mappings":"AACA,OAAO,EAAY,mBAAmB,EAAE,MAAM,eAAe,CAAC;;;;;;AAM9D,qBAKa,eAAe;IAC1B,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,eAAe,CAAC;yCAD3C,eAAe;0CAAf,eAAe;0CAAf,eAAe;CAI3B"}

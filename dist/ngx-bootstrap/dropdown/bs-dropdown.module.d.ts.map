@@ -1,0 +1,1 @@
+{"version":3,"file":"bs-dropdown.module.d.ts","sourceRoot":"","sources":["../../../src/dropdown/bs-dropdown.module.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,mBAAmB,EAAY,MAAM,eAAe,CAAC;;;;;;;AAW9D,qBAea,gBAAgB;IAC3B,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,gBAAgB,CAAC;yCAD5C,gBAAgB;0CAAhB,gBAAgB;0CAAhB,gBAAgB;CAW5B"}

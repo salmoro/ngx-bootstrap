@@ -1,0 +1,1 @@
+{"version":3,"file":"draggable-item.d.ts","sourceRoot":"","sources":["../../../src/sortable/draggable-item.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC5B,KAAK,EAAE,SAAS,CAAC;IAEjB,IAAI,EAAE,GAAG,CAAC;IACV,CAAC,EAAE,MAAM,CAAC;IACV,YAAY,EAAE,MAAM,CAAC;IACrB,aAAa,EAAE,MAAM,CAAC;IACtB,aAAa,EAAE,MAAM,CAAC;CACvB"}

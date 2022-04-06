@@ -1,0 +1,1 @@
+{"version":3,"file":"sortable.module.d.ts","sourceRoot":"","sources":["../../../src/sortable/sortable.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAY,mBAAmB,EAAE,MAAM,eAAe,CAAC;;;;AAM9D,qBAKa,cAAc;IACzB,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,cAAc,CAAC;yCAD1C,cAAc;0CAAd,cAAc;0CAAd,cAAc;CAI1B"}

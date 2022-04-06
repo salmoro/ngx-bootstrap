@@ -1,0 +1,4 @@
+export declare function initTimezone(): void;
+export declare function getZoneAbbr(isUTC: boolean): "" | "UTC";
+export declare function getZoneName(isUTC: boolean): "" | "Coordinated Universal Time";
+//# sourceMappingURL=timezone.d.ts.map

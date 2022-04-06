@@ -1,0 +1,1 @@
+{"version":3,"file":"public_api.d.ts","sourceRoot":"","sources":["../../../src/mini-ngrx/public_api.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,MAAM;IACrB,IAAI,EAAE,MAAM,CAAC;IAEb,OAAO,CAAC,EAAE,GAAG,CAAC;CACf;AAED,oBAAY,aAAa,CAAC,CAAC,IAAI,CAAC,KAAK,EAAE,CAAC,EAAE,MAAM,EAAE,MAAM,KAAK,CAAC,CAAC;AAE/D,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAC1C,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC"}

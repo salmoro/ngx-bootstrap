@@ -1,0 +1,1 @@
+{"version":3,"file":"trigger.class.d.ts","sourceRoot":"","sources":["../../../src/utils/trigger.class.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,qBAAa,OAAO;IAClB,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,CAAC,EAAE,MAAM,CAAC;gBAEH,IAAI,EAAE,MAAM,EAAE,KAAK,CAAC,EAAE,MAAM;IAKxC,QAAQ,IAAI,OAAO;CAGpB"}

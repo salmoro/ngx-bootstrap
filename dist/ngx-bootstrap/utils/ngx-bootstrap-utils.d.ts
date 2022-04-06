@@ -1,0 +1,6 @@
+/**
+ * Generated bundle index. Do not edit.
+ */
+/// <amd-module name="ngx-bootstrap/utils" />
+export * from './index';
+//# sourceMappingURL=ngx-bootstrap-utils.d.ts.map
